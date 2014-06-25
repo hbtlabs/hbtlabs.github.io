@@ -6,7 +6,7 @@ baseurl: "http://hbtlabs.github.io/"
 url: "http://hbtlabs.github.io/"
 
 # DEV: set this to empty when developing locally
-baseurl: ""
+#baseurl: ""
 
 # Build settings
 markdown: kramdown
