@@ -1,0 +1,13 @@
+# Site settings
+title: hbtlabs
+email: "hassenbentanfous@gmail.com"
+description: ""
+baseurl: "http://hbtlabs.github.io/"
+url: "http://hbtlabs.github.io/"
+
+# DEV: set this to empty when developing locally
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
