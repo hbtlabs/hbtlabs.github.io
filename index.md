@@ -20,7 +20,6 @@ Name | private | purpose |
 [backup]( https://bitbucket.org/hbt/backup) | Yes | custom scripts to handle cloning, mirror, incremental backups of all local, external, remote drives
 [gpg-keys]( https://bitbucket.org/hbt/gpg-keys) | Yes |  gpg keys management
 [empower-autodeploy]( https://bitbucket.org/hbt/empower-autodeploy) | Yes | custom scripts to consulting projects
-[accounts]( https://bitbucket.org/hbt/accounts) | Yes | passwords manager
 [etc]( https://bitbucket.org/hbt/etc) | Yes | tracks changes in /etc using etckeeper
 
 
@@ -66,6 +65,4 @@ Name | Private | purpose | Deprecated on | Reason
 [msnmessengercontactgrabberplugin]( https://bitbucket.org/hbt/msnmessengercontactgrabberplugin) | Yes | grab contacts from msn messenger and other social media | 2008 | project ended
 [pmmessageplugin]( https://bitbucket.org/hbt/pmmessageplugin) | Yes | private messaging plugin used to power relu project | 2008 | project ended
 [sfdeployplugin]( https://bitbucket.org/hbt/sfdeployplugin) | Yes | deploys symfony 1.0 applications | 2010 | terminated major symfony 1.0 projects
-
-
-
+[accounts]( https://bitbucket.org/hbt/accounts) | Yes | passwords manager | 2014 | replaced by lastpass
