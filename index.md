@@ -7,16 +7,16 @@ date:   2014-06-24 20:27:00
 
 ## In Progress Projects
 
-Name | private | purpose | 
-------------- |:-------------:| :-----|
+Name | private | purpose
+------------- |:-------------:| :-----
 
 
 
 
 ## Mature Projects
 
-Name | private | purpose | 
-------------- |:-------------:| :-----| 
+Name | private | purpose 
+------------- |:-------------:| :----- 
 
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
@@ -35,8 +35,8 @@ Name | private | purpose |
 
 ## On Hold Projects
 
-Name | private | purpose | 
-------------- |:-------------:| :-----|
+Name | private | purpose
+------------- |:-------------:| :-----
 [oss-checklist](http://hbtlabs.github.io/oss-checklist/) | 2015 | open source software best practices based on literature. 
 
 
