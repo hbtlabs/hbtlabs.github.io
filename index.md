@@ -17,7 +17,6 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
-
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
 [vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Using firefox/pentadactyl instead now
