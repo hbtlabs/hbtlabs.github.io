@@ -4,16 +4,23 @@ title:  "Projects"
 date:   2014-06-24 20:27:00
 ---
 
-## Active Projects
 
+## In Progress Projects
 
 Name | private | purpose | 
 ------------- |:-------------:| :-----|
-[oss-checklist](http://hbtlabs.github.io/oss-checklist/) | - | open source software best practices based on literature 
-[github-backup]( https://github.com/hbt/github-backup) | - | backups up github data 
+
+
+
+
+## Mature Projects
+
+Name | private | purpose | 
+------------- |:-------------:| :-----| 
+
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
-[vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Using firefox/pentadactyl instead now
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
+[vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Using firefox/pentadactyl instead now
 [hbtlabs.github.io]( https://github.com/hbtlabs/hbtlabs.github.io) | - | this site
 [config]( https://bitbucket.org/hbt/config) | - | contains dotfiles and custom scripts / configuration. Designed
 [hbtlabs]( https://bitbucket.org/hbt/hbtlabs) | - | public site hbtlabs.com
@@ -21,10 +28,19 @@ Name | private | purpose |
 [gpg-keys]( https://bitbucket.org/hbt/gpg-keys) | Yes |  gpg keys management
 [empower-autodeploy]( https://bitbucket.org/hbt/empower-autodeploy) | Yes | custom scripts to consulting projects
 [etc]( https://bitbucket.org/hbt/etc) | Yes | tracks changes in /etc using etckeeper
+[ctms-db-sync]( https://bitbucket.org/hbt/ctms-db-sync) | Yes | syncs empower remote databases to local db
 
 
 
-## Dead Code
+
+## On Hold Projects
+
+Name | private | purpose | 
+------------- |:-------------:| :-----|
+[oss-checklist](http://hbtlabs.github.io/oss-checklist/) | 2015 | open source software best practices based on literature. 
+
+
+## Dead Projects
 
 
 Name | Private | purpose | Deprecated on | Reason  
@@ -66,3 +82,6 @@ Name | Private | purpose | Deprecated on | Reason
 [pmmessageplugin]( https://bitbucket.org/hbt/pmmessageplugin) | Yes | private messaging plugin used to power relu project | 2008 | project ended
 [sfdeployplugin]( https://bitbucket.org/hbt/sfdeployplugin) | Yes | deploys symfony 1.0 applications | 2010 | terminated major symfony 1.0 projects
 [accounts]( https://bitbucket.org/hbt/accounts) | Yes | passwords manager | 2014 | replaced by lastpass
+[github-backup]( https://github.com/hbt/github-backup) | - | backups up github data | 2014 | replaced by another a shell script code-backups.sh
+[find-similar-videos]( https://bitbucket.org/hbt/find-similar-videos) | Yes | locate similar videos using image duplications algos | 2014 | one time script
+[linode-logs]( https://bitbucket.org/hbt/linode-logs) | Yes | logs storage of linode instance | 2012 | no longer needed
