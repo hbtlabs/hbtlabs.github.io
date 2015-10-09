@@ -19,15 +19,15 @@ Name | private | purpose
 ------------- |:-------------:| :----- 
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
-[vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Using firefox/pentadactyl instead now
+[vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Also using firefox/pentadactyl
 [hbtlabs.github.io]( https://github.com/hbtlabs/hbtlabs.github.io) | - | this site
-[config]( https://bitbucket.org/hbt/config) | - | contains dotfiles and custom scripts / configuration. 
+[config]( https://bitbucket.org/hbt/config) | Yes | contains dotfiles and custom scripts / configuration. 
 [hbtlabs]( https://bitbucket.org/hbt/hbtlabs) | - | public site hbtlabs.com
 [backup]( https://bitbucket.org/hbt/backup) | Yes | custom scripts to handle cloning, mirror, incremental backups of all local, external, remote drives
 [gpg-keys]( https://bitbucket.org/hbt/gpg-keys) | Yes |  gpg keys management
-[empower-autodeploy]( https://bitbucket.org/hbt/empower-autodeploy) | Yes | custom scripts to consulting projects
-[etc]( https://bitbucket.org/hbt/etc) | Yes | tracks changes in /etc using etckeeper
-[ctms-db-sync]( https://bitbucket.org/hbt/ctms-db-sync) | Yes | syncs empower remote databases to local db
+[empower-autodeploy]( https://bitbucket.org/hbt/empower-autodeploy) | Yes | consulting - custom scripts for continuous integration
+[etc]( https://bitbucket.org/hbt/etc) | Yes | tracks changes in /etc using etckeeper (desktop)
+[ctms-db-sync]( https://bitbucket.org/hbt/ctms-db-sync) | Yes | consulting - syncs remote databases to local db
 
 
 
