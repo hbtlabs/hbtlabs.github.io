@@ -5,10 +5,10 @@ date:   2014-06-24 20:27:00
 ---
 
 
-## In Progress Projects
+## In Progress 
 
-Name | private | purpose
-------------- |:-------------:| :-----
+Name | private | purpose 
+------------- |:-------------:| :----- 
 
 
 
@@ -32,7 +32,7 @@ Name | private | purpose
 
 
 
-## On Hold Projects
+## On Hold 
 
 Name | private | purpose
 ------------- |:-------------:| :-----
