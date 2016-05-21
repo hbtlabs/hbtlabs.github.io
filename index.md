@@ -26,6 +26,12 @@ Name | private | purpose
 [backup]( https://bitbucket.org/hbt/backup) | Yes | custom scripts to handle cloning, mirror, incremental backups of all local, external, remote drives
 [gpg-keys]( https://bitbucket.org/hbt/gpg-keys) | Yes |  gpg keys management
 [etc]( https://bitbucket.org/hbt/etc) | Yes | tracks changes in /etc using etckeeper (desktop)
+[ctms-db-sync]( https://bitbucket.org/hbt/ctms-db-sync) | Yes | consulting - syncs remote databases to local db 
+[empower-autodeploy]( https://bitbucket.org/hbt/empower-autodeploy) | Yes | consulting - custom scripts for continuous integration 
+[empower]( https://bitbucket.org/hbt/empower) | Yes | consulting - empower project
+[pmrobot]( https://bitbucket.org/hbt/pmrobot) | Yes | pmrobot custom changes
+[pmrobot-db]( https://bitbucket.org/hbt/pmrobot-db) | Yes | pmrobot automated db backups
+[accdev]( https://bitbucket.org/hbt/accdev) | Yes | blog
 
 
 
@@ -82,7 +88,7 @@ Name | Private | purpose | Deprecated on | Reason
 [github-backup]( https://github.com/hbt/github-backup) | - | backups up github data | 2014 | replaced by another a shell script code-backups.sh
 [find-similar-videos]( https://bitbucket.org/hbt/find-similar-videos) | Yes | locate similar videos using image duplications algos | 2014 | one time script
 [linode-logs]( https://bitbucket.org/hbt/linode-logs) | Yes | logs storage of linode instance | 2012 | no longer needed
-[ctms-db-sync]( https://bitbucket.org/hbt/ctms-db-sync) | Yes | consulting - syncs remote databases to local db | 2015 | empower contract terminated
-[empower-autodeploy]( https://bitbucket.org/hbt/empower-autodeploy) | Yes | consulting - custom scripts for continuous integration | 2015 | empower contract terminated
-[empower-autodeploy]( https://bitbucket.org/hbt/empower-autodeploy) | Yes | consulting - custom scripts for continuous integration | 2015 | empower contract terminated
 [rumie-scripts]( https://bitbucket.org/hbt/rumie-scripts) | Yes | consulting - custom scripts for continuous integration | 2015 | rumie contract terminated
+[rumie-analytics]( https://bitbucket.org/hbt/rumie-analytics) | Yes | consulting - old backup repo | 2015 | rumie contract terminated
+[ssi-bak]( https://bitbucket.org/hbt/ssi-bak) | Yes | consulting - syllogistic backups | 2015 | syllogistic contract terminated
+
