@@ -40,7 +40,6 @@ Name | private | purpose
 
 Name | private | purpose
 ------------- |:-------------:| :-----
-[oss-checklist](http://hbtlabs.github.io/oss-checklist/) | 2015 | open source software best practices based on literature. 
 
 
 ## Dead Projects
@@ -91,4 +90,5 @@ Name | Private | purpose | Deprecated on | Reason
 [rumie-scripts]( https://bitbucket.org/hbt/rumie-scripts) | Yes | consulting - custom scripts for continuous integration | 2015 | rumie contract terminated
 [rumie-analytics]( https://bitbucket.org/hbt/rumie-analytics) | Yes | consulting - old backup repo | 2015 | rumie contract terminated
 [ssi-bak]( https://bitbucket.org/hbt/ssi-bak) | Yes | consulting - syllogistic backups | 2015 | syllogistic contract terminated
+[oss-checklist](http://github.com/hbt/oss-checklist/) | 2013 | open source software best practices based on literature. 
 
