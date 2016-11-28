@@ -9,7 +9,7 @@ date:   2014-06-24 20:27:00
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
-
+[chromium-white-flash-fix]( https://bitbucket.org/hbtlabs/chromium-white-flash-fix) | fixes white flash in chromium
 
 
 
