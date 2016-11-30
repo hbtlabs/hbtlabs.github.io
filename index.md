@@ -18,6 +18,7 @@ Name | private | purpose
 Name | private | purpose 
 ------------- |:-------------:| :----- 
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
+[video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
 [vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Also using firefox/pentadactyl
 [hbtlabs.github.io]( https://github.com/hbtlabs/hbtlabs.github.io) | - | this site
