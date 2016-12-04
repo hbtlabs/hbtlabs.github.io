@@ -10,6 +10,7 @@ date:   2014-06-24 20:27:00
 Name | private | purpose 
 ------------- |:-------------:| :----- 
 [chromium-white-flash-fix]( https://github.com/hbtlabs/chromium-white-flash-fix) | - | fixes white flash in chromium
+[hbtlabs-scripts]( https://bitbucket.org/hbt/hbtlabs-scripts) | Yes | system scripts. temporary until config project is fixed
 
 
 
