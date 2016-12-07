@@ -23,8 +23,10 @@ Name | private | purpose
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
 [vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Also using firefox/pentadactyl
 [hbtlabs.github.io]( https://github.com/hbtlabs/hbtlabs.github.io) | - | this site
+[hbt blog]( https://bitbucket.org/hbt/hbtlabs) | - | old blog still active but replaced by accdev. to be migrated
+[hbtlabs.com site](https://github.com/hbt/site) | - | hbtlabs.com public site
+[accdev]( https://bitbucket.org/hbt/accdev) | Yes | active blog
 [config]( https://bitbucket.org/hbt/config) | Yes | contains dotfiles and custom scripts / configuration. 
-[hbtlabs]( https://bitbucket.org/hbt/hbtlabs) | - | public site hbtlabs.com
 [backup]( https://bitbucket.org/hbt/backup) | Yes | custom scripts to handle cloning, mirror, incremental backups of all local, external, remote drives
 [gpg-keys]( https://bitbucket.org/hbt/gpg-keys) | Yes |  gpg keys management
 [etc]( https://bitbucket.org/hbt/etc) | Yes | tracks changes in /etc using etckeeper (desktop)
@@ -33,7 +35,6 @@ Name | private | purpose
 [empower]( https://bitbucket.org/hbt/empower) | Yes | consulting - empower project
 [pmrobot]( https://bitbucket.org/hbt/pmrobot) | Yes | pmrobot custom changes
 [pmrobot-db]( https://bitbucket.org/hbt/pmrobot-db) | Yes | pmrobot automated db backups
-[accdev]( https://bitbucket.org/hbt/accdev) | Yes | blog
 
 
 
