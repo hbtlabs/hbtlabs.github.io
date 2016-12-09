@@ -22,6 +22,7 @@ Name | private | purpose
 [video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
 [vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Also using firefox/pentadactyl
+[meld]( https://github.com/hbt/meld) | - | meld diff program with dark theme additions
 [hbtlabs.github.io]( https://github.com/hbtlabs/hbtlabs.github.io) | - | this site
 [hbt blog]( https://bitbucket.org/hbt/hbtlabs) | - | old blog still active but replaced by accdev. to be migrated
 [hbtlabs.com site](https://github.com/hbt/site) | - | hbtlabs.com public site
