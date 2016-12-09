@@ -18,6 +18,8 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[dotfiles]( https://bitbucket.org/hbt/dotfiles) | Yes | dotfiles and scripts management + vcsh share with dotfiles_hbtlabs
+[dotfiles_hbtlabs]( https://bitbucket.org/hbt/dotfiles_hbtlabs) | Yes | dotfiles hbtlabs + vcsh share with dotfiles
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
 [video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
@@ -27,7 +29,6 @@ Name | private | purpose
 [hbt blog]( https://bitbucket.org/hbt/hbtlabs) | - | old blog still active but replaced by accdev. to be migrated
 [hbtlabs.com site](https://github.com/hbt/site) | - | hbtlabs.com public site
 [accdev]( https://bitbucket.org/hbt/accdev) | Yes | active blog
-[config]( https://bitbucket.org/hbt/config) | Yes | contains dotfiles and custom scripts / configuration. 
 [backup]( https://bitbucket.org/hbt/backup) | Yes | custom scripts to handle cloning, mirror, incremental backups of all local, external, remote drives
 [gpg-keys]( https://bitbucket.org/hbt/gpg-keys) | Yes |  gpg keys management
 [etc]( https://bitbucket.org/hbt/etc) | Yes | tracks changes in /etc using etckeeper (desktop)
@@ -94,5 +95,6 @@ Name | Private | purpose | Deprecated on | Reason
 [rumie-scripts]( https://bitbucket.org/hbt/rumie-scripts) | Yes | consulting - custom scripts for continuous integration | 2015 | rumie contract terminated
 [rumie-analytics]( https://bitbucket.org/hbt/rumie-analytics) | Yes | consulting - old backup repo | 2015 | rumie contract terminated
 [ssi-bak]( https://bitbucket.org/hbt/ssi-bak) | Yes | consulting - syllogistic backups | 2015 | syllogistic contract terminated
-[oss-checklist](http://github.com/hbt/oss-checklist/) | 2013 | open source software best practices based on literature. 
+[oss-checklist](http://github.com/hbt/oss-checklist/) | open source software best practices based on literature. | 2013 | project stalled
+[config]( https://bitbucket.org/hbt/config) | Yes | contains dotfiles and custom scripts / configuration. | 2016 | in favor of hbt/dotfiles and vcsh
 
