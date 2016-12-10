@@ -9,8 +9,6 @@ date:   2014-06-24 20:27:00
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
-[chromium-white-flash-fix]( https://github.com/hbtlabs/chromium-white-flash-fix) | - | fixes white flash in chromium
-[hbtlabs-scripts]( https://bitbucket.org/hbt/hbtlabs-scripts) | Yes | system scripts. temporary until config project is fixed
 
 
 
@@ -18,8 +16,10 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[chromium-white-flash-fix]( https://github.com/hbtlabs/chromium-white-flash-fix) | - | fixes white flash in chromium
 [dotfiles]( https://bitbucket.org/hbt/dotfiles) | Yes | dotfiles and scripts management + vcsh share with dotfiles_hbtlabs
 [dotfiles_hbtlabs]( https://bitbucket.org/hbt/dotfiles_hbtlabs) | Yes | dotfiles hbtlabs + vcsh share with dotfiles
+[hbtlabs-scripts]( https://bitbucket.org/hbt/hbtlabs-scripts) | Yes | hbtlabs system scripts - could be migrated to dotfiles_hbtlabs
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
 [video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
