@@ -23,6 +23,7 @@ Name | private | purpose
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
 [video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
+[gist-backup](https://github.com/hbt/gist-backup) | - | backups all github gists for quick search/edit of snippets
 [chromiumdotfiles](https://github.com/hbt/chromedotfiles) | - | chrome extension to load JS/CSS files per domain. dotjs replacement
 [vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Works in tandem with chromium-vim cvim
 [meld]( https://github.com/hbt/meld) | - | meld diff program with dark theme additions
