@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[mouseless](https://github.com/hbt/mouseless) | - | chromium vim fork. browse without keyboard
 [chromium-white-flash-fix]( https://github.com/hbtlabs/chromium-white-flash-fix) | - | fixes white flash in chromium
 [dotfiles]( https://bitbucket.org/hbt/dotfiles) | Yes | dotfiles and scripts management + vcsh share with dotfiles_hbtlabs
 [dotfiles_hbtlabs]( https://bitbucket.org/hbt/dotfiles_hbtlabs) | Yes | dotfiles hbtlabs + vcsh share with dotfiles
@@ -23,9 +24,7 @@ Name | private | purpose
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
 [video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
-[gist-backup](https://github.com/hbt/gist-backup) | - | backups all github gists for quick search/edit of snippets
 [chromiumdotfiles](https://github.com/hbt/chromedotfiles) | - | chrome extension to load JS/CSS files per domain. dotjs replacement
-[vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Works in tandem with chromium-vim cvim
 [meld]( https://github.com/hbt/meld) | - | meld diff program with dark theme additions
 [hbtlabs.github.io]( https://github.com/hbtlabs/hbtlabs.github.io) | - | this site
 [hbt blog]( https://bitbucket.org/hbt/hbtlabs) | - | old blog still active but replaced by accdev. to be migrated
@@ -99,4 +98,4 @@ Name | Private | purpose | Deprecated on | Reason
 [ssi-bak]( https://bitbucket.org/hbt/ssi-bak) | Yes | consulting - syllogistic backups | 2015 | syllogistic contract terminated
 [oss-checklist](http://github.com/hbt/oss-checklist/) | open source software best practices based on literature. | 2013 | project stalled
 [config]( https://bitbucket.org/hbt/config) | Yes | contains dotfiles and custom scripts / configuration. | 2016 | in favor of hbt/dotfiles and vcsh
-
+[vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Works in tandem with chromium-vim cvim. | 2017 | Replaced by mouseless
