@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[x-tile](https://github.com/hbt/x-tile) | - | window manager tiling 
 [mouseless](https://github.com/hbt/mouseless) | - | chromium vim fork. browse without keyboard
 [chromium-white-flash-fix]( https://github.com/hbtlabs/chromium-white-flash-fix) | - | fixes white flash in chromium
 [dotfiles]( https://bitbucket.org/hbt/dotfiles) | Yes | dotfiles and scripts management + vcsh share with dotfiles_hbtlabs
