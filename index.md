@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[github-backup]( https://github.com/hbt/github-backup) | - | backups up github data 
 [x-tile](https://github.com/hbt/x-tile) | - | window manager tiling 
 [mouseless](https://github.com/hbt/mouseless) | - | chromium vim fork. browse without keyboard
 [chromium-white-flash-fix]( https://github.com/hbtlabs/chromium-white-flash-fix) | - | fixes white flash in chromium
@@ -91,7 +92,6 @@ Name | Private | purpose | Deprecated on | Reason
 [pmmessageplugin]( https://bitbucket.org/hbt/pmmessageplugin) | Yes | private messaging plugin used to power relu project | 2008 | project ended
 [sfdeployplugin]( https://bitbucket.org/hbt/sfdeployplugin) | Yes | deploys symfony 1.0 applications | 2010 | terminated major symfony 1.0 projects
 [accounts]( https://bitbucket.org/hbt/accounts) | Yes | passwords manager | 2014 | replaced by lastpass
-[github-backup]( https://github.com/hbt/github-backup) | - | backups up github data | 2014 | replaced by another a shell script code-backups.sh
 [find-similar-videos]( https://bitbucket.org/hbt/find-similar-videos) | Yes | locate similar videos using image duplications algos | 2014 | one time script
 [linode-logs]( https://bitbucket.org/hbt/linode-logs) | Yes | logs storage of linode instance | 2012 | no longer needed
 [rumie-scripts]( https://bitbucket.org/hbt/rumie-scripts) | Yes | consulting - custom scripts for continuous integration | 2015 | rumie contract terminated
