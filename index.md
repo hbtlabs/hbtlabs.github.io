@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[projects-log]( https://github.com/hbt/projects-log) | - | tracks decisions/design/ideas/implementations across projects
 [github-backup]( https://github.com/hbt/github-backup) | - | backups up github data 
 [x-tile](https://github.com/hbt/x-tile) | - | window manager tiling 
 [mouseless](https://github.com/hbt/mouseless) | - | chromium vim fork. browse without keyboard
