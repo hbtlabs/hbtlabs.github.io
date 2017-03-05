@@ -40,7 +40,6 @@ Name | private | purpose
 [empower-autodeploy]( https://bitbucket.org/hbt/empower-autodeploy) | Yes | consulting - custom scripts for continuous integration 
 [empower]( https://bitbucket.org/hbt/empower) | Yes | consulting - empower project
 [pmrobot]( https://bitbucket.org/hbt/pmrobot) | Yes | pmrobot custom changes
-[pmrobot-db]( https://bitbucket.org/hbt/pmrobot-db) | Yes | pmrobot automated db backups
 
 
 
@@ -101,3 +100,4 @@ Name | Private | purpose | Deprecated on | Reason
 [oss-checklist](http://github.com/hbt/oss-checklist/) | open source software best practices based on literature. | 2013 | project stalled
 [config]( https://bitbucket.org/hbt/config) | Yes | contains dotfiles and custom scripts / configuration. | 2016 | in favor of hbt/dotfiles and vcsh
 [vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Works in tandem with chromium-vim cvim. | 2017 | Replaced by mouseless
+[pmrobot-db]( https://bitbucket.org/hbt/pmrobot-db) | Yes | pmrobot automated db backups.  | 2017 | replaced by gdrive backups
