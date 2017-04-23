@@ -16,6 +16,8 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[watch]( https://github.com/hbt/watch) | - | file watcher/monitor to run scripts on file changes
+[functionshub]( https://github.com/hbt/functionshub) | - | automation orchestration
 [projects-log]( https://github.com/hbt/projects-log) | - | tracks decisions/design/ideas/implementations across projects
 [github-backup]( https://github.com/hbt/github-backup) | - | backups up github data 
 [x-tile](https://github.com/hbt/x-tile) | - | window manager tiling 
