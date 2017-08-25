@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[bookmarks-editor](https://bitbucket.org/hbt/bookmarks-editor) | - | edit/manipulate chrome bookmarks easily using text
 [watch]( https://github.com/hbt/watch) | - | file watcher/monitor to run scripts on file changes
 [functionshub](https://gitlab.com/hbt/functionshub) | - | automation orchestration
 [projects-log]( https://github.com/hbt/projects-log) | - | tracks decisions/design/ideas/implementations across projects
@@ -57,6 +58,7 @@ Name | private | purpose
 
 Name | Private | purpose | Deprecated on | Reason  
 ------------- |:-------------:| :-----| :-----| :-----
+[docker-openvpn](https://bitbucket.org/hbt/docker-openvpn) | - | openvpn config with kill switch using docker
 [simple-custom-config]( https://github.com/hbt/simple-custom-config) | - | define configuration files using templates | 2013 | Replaced by http://symfony.com/components/Config
 [git-svn-migration]( https://github.com/hbt/git-svn-migration) | - | migrates svn repository and its plugins / configuration using git-svn to git | 2012 | All svn repositories migrated and not worth adapting code to latest git version
 [js-beautify-gem]( https://github.com/hbt/js-beautify-gem) | - | beautifies JS code | 2012 | replaces by better IDE plugin + beautify npm packages
