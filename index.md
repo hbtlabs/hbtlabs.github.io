@@ -16,11 +16,11 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
-[chrome restore focus](https://bitbucket.org/hbt/chrome-restore-focus) | - | restores focus to document body using keyboard. Hack for mouseless
+[chrome restore focus](https://bitbucket.org/hbt/chrome-restore-focus) | Yes | restores focus to document body using keyboard. Hack for mouseless
 [chrome fuzzy finder](https://github.com/hbt/quick-tabs-chrome-extension) | - | search tabs history bookmarks using fuzzy finder like intellij
-[bookmarks-editor](https://bitbucket.org/hbt/bookmarks-editor) | - | edit/manipulate chrome bookmarks easily using text
+[bookmarks-editor](https://bitbucket.org/hbt/bookmarks-editor) | Yes | edit/manipulate chrome bookmarks easily using text
 [watch]( https://github.com/hbt/watch) | - | file watcher/monitor to run scripts on file changes
-[functionshub](https://gitlab.com/hbt/functionshub) | - | automation orchestration
+[functionshub](https://gitlab.com/hbt/functionshub) | Yes | automation orchestration
 [projects-log]( https://github.com/hbt/projects-log) | - | tracks decisions/design/ideas/implementations across projects
 [github-backup]( https://github.com/hbt/github-backup) | - | backups up github data 
 [x-tile](https://github.com/hbt/x-tile) | - | window manager tiling 
