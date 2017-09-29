@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[leo-editor](https://github.com/hbt/leo-editor) | - | outliner app fork
 [chromium white flash docker build](https://github.com/hbt/chromium-white-flash-docker) | - | docker instructions to build chromium for white flash repo
 [chrome restore focus](https://bitbucket.org/hbt/chrome-restore-focus) | Yes | restores focus to document body using keyboard. Hack for mouseless
 [chrome fuzzy finder](https://github.com/hbt/quick-tabs-chrome-extension) | - | search tabs history bookmarks using fuzzy finder like intellij
