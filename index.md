@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[docker-files](https://bitbucket.org/hbt/docker-files) | Yes | tracks Dockerfile configs of interest
 [node-experiments](https://bitbucket.org/hbt/node-experiments) | Yes | experiments using various versions of node
 [leo-editor](https://github.com/hbt/leo-editor) | - | outliner app fork
 [chromium white flash docker build](https://github.com/hbt/chromium-white-flash-docker) | - | docker instructions to build chromium for white flash repo
