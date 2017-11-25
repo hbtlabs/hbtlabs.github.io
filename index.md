@@ -34,7 +34,6 @@ Name | private | purpose
 [dotfiles_hbtlabs]( https://bitbucket.org/hbt/dotfiles_hbtlabs) | Yes | dotfiles hbtlabs + vcsh share with dotfiles
 [hbtlabs-scripts]( https://bitbucket.org/hbt/hbtlabs-scripts) | Yes | hbtlabs system scripts - could be migrated to dotfiles_hbtlabs
 [phpmyadmin3]( https://bitbucket.org/hbt/phpmyadmin3) | Yes | phpmyadmin3 with custom changes to facilitate navigation
-[video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening
 [phpunit-skeleton-generator]( https://github.com/hbtlabs/phpunit-skeleton-generator) | - | generates tests from annotations/assertions using comments in code 
 [chromiumdotfiles](https://github.com/hbt/chromedotfiles) | - | chrome extension to load JS/CSS files per domain. dotjs replacement
 [meld]( https://github.com/hbt/meld) | - | meld diff program with dark theme additions
@@ -111,3 +110,4 @@ Name | Private | purpose | Deprecated on | Reason
 [config]( https://bitbucket.org/hbt/config) | Yes | contains dotfiles and custom scripts / configuration. | 2016 | in favor of hbt/dotfiles and vcsh
 [vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Works in tandem with chromium-vim cvim. | 2017 | Replaced by mouseless
 [pmrobot-db]( https://bitbucket.org/hbt/pmrobot-db) | Yes | pmrobot automated db backups.  | 2017 | replaced by gdrive backups
+[video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening | 2017 | Integrated into docker-files and deployed on functionshub
