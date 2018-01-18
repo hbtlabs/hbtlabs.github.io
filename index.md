@@ -25,7 +25,8 @@ Name | private | purpose
 [bookmarks-editor](https://bitbucket.org/hbt/bookmarks-editor) | Yes | edit/manipulate chrome bookmarks easily using text
 [watch]( https://github.com/hbt/watch) | - | file watcher/monitor to run scripts on file changes
 [functionshub](https://gitlab.com/hbt/functionshub) | Yes | automation orchestration
-[projects-log]( https://github.com/hbt/projects-log) | - | tracks decisions/design/ideas/implementations across projects
+[projects-log](https://bitbucket.org/hbt/projects-log) | Yes | tracks decisions/design/ideas/implementations across projects (private)
+[projects-log]( https://github.com/hbt/projects-log) | - | tracks decisions/design/ideas/implementations across projects (old public)
 [github-backup]( https://github.com/hbt/github-backup) | - | backups up github data 
 [x-tile](https://github.com/hbt/x-tile) | - | window manager tiling 
 [mouseless](https://github.com/hbt/mouseless) | - | chromium vim fork. browse without keyboard
