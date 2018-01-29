@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[docker-package-manager](https://gitlab.com/hbt/docker-package-manager) | - | install and use software in docker containers
 [docker-files](https://bitbucket.org/hbt/docker-files) | Yes | tracks Dockerfile configs of interest
 [node-experiments](https://bitbucket.org/hbt/node-experiments) | Yes | experiments using various versions of node
 [leo-editor](https://github.com/hbt/leo-editor) | - | outliner app fork
