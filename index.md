@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[howtos](https://github.com/hbt/howtos) | - | track howto repos + tips 
 [vim-outliner](https://bitbucket.org/hbt/vim-outliner) | - | vimflowy clone from github
 [chrome-tabs-outliner](https://bitbucket.org/hbt/chrome-tabs-outliner) | - | Chrome Tabs Outliner extension hacked
 [docker-package-manager](https://gitlab.com/hbt/docker-package-manager) | - | install and use software in docker containers
