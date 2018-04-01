@@ -17,6 +17,7 @@ Name | private | purpose
 Name | private | purpose 
 ------------- |:-------------:| :----- 
 [howtos](https://github.com/hbt/howtos) | - | track howto repos + tips 
+[phpstorm-config](https://bitbucket.org/hbt/phpstorm-config) | - | phpstorm config + plugins since jetbrains repo no longer lists some of them
 [darkreader](https://bitbucket.org/hbt/darkreader) | - | copy of fork working on chromium
 [vim-outliner](https://bitbucket.org/hbt/vim-outliner) | - | vimflowy clone from github
 [chrome-tabs-outliner](https://bitbucket.org/hbt/chrome-tabs-outliner) | - | Chrome Tabs Outliner extension hacked
