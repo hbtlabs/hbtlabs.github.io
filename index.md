@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[wion](https://github.com/hbt/wion) | - | code to manipulate wion device
 [howtos](https://github.com/hbt/howtos) | - | track howto repos + tips 
 [phpstorm-config](https://bitbucket.org/hbt/phpstorm-config) | - | phpstorm config + plugins since jetbrains repo no longer lists some of them
 [darkreader](https://bitbucket.org/hbt/darkreader) | - | copy of fork working on chromium
