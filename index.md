@@ -16,6 +16,7 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[git-forks-analysis](https://github.com/hbt/git-forks-analysis) | - | analyze forks networks to find gems
 [wion](https://github.com/hbt/wion) | - | code to manipulate wion device
 [howtos](https://github.com/hbt/howtos) | - | track howto repos + tips 
 [phpstorm-config](https://bitbucket.org/hbt/phpstorm-config) | - | phpstorm config + plugins since jetbrains repo no longer lists some of them
