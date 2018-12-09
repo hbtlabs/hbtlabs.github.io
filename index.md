@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Projects"
-date:   2014-06-24 20:27:00
 ---
 
 
@@ -16,8 +15,12 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
-[git-forks-analysis](https://github.com/hbt/git-forks-analysis) | - | analyze forks networks to find gems
+[https://github.com/hbt/Surfingkeys](https://github.com/hbt/Surfingkeys) | - | Mouseless replacement
+[https://github.com/hbt/z](https://github.com/hbt/z) | - | fixes to bash cli jumper
 [wion](https://github.com/hbt/wion) | - | code to manipulate wion device
+[git-forks-analysis](https://github.com/hbt/git-forks-analysis) | - | analyze forks networks to find gems
+[https://github.com/hbt/git_stats](https://github.com/hbt/git_stats) | - | git stats to work across branches and analyze forks
+[https://github.com/hbt/gitinspector](https://github.com/hbt/gitinspector) | - | git stats to work across branches and analyze forks
 [howtos](https://github.com/hbt/howtos) | - | track howto repos + tips 
 [phpstorm-config](https://bitbucket.org/hbt/phpstorm-config) | - | phpstorm config + plugins since jetbrains repo no longer lists some of them
 [darkreader](https://bitbucket.org/hbt/darkreader) | - | copy of fork working on chromium
@@ -28,16 +31,15 @@ Name | private | purpose
 [node-experiments](https://bitbucket.org/hbt/node-experiments) | Yes | experiments using various versions of node
 [leo-editor](https://github.com/hbt/leo-editor) | - | outliner app fork
 [chromium white flash docker build](https://github.com/hbt/chromium-white-flash-docker) | - | docker instructions to build chromium for white flash repo
-[chrome restore focus](https://bitbucket.org/hbt/chrome-restore-focus) | Yes | restores focus to document body using keyboard. Hack for mouseless
 [chrome fuzzy finder](https://github.com/hbt/quick-tabs-chrome-extension) | - | search tabs history bookmarks using fuzzy finder like intellij
 [bookmarks-editor](https://bitbucket.org/hbt/bookmarks-editor) | Yes | edit/manipulate chrome bookmarks easily using text
 [watch]( https://github.com/hbt/watch) | - | file watcher/monitor to run scripts on file changes
 [functionshub](https://gitlab.com/hbt/functionshub) | Yes | automation orchestration
 [projects-log](https://bitbucket.org/hbt/projects-log) | Yes | tracks decisions/design/ideas/implementations across projects (private)
+[https://github.com/hbt/chrome-restore-focus](https://github.com/hbt/chrome-restore-focus) | - | restores focus to document body using keyboard. Hack for mouseless
 [projects-log]( https://github.com/hbt/projects-log) | - | tracks decisions/design/ideas/implementations across projects (old public)
 [github-backup]( https://github.com/hbt/github-backup) | - | backups up github data 
 [x-tile](https://github.com/hbt/x-tile) | - | window manager tiling 
-[mouseless](https://github.com/hbt/mouseless) | - | chromium vim fork. browse without keyboard
 [chromium-white-flash-fix]( https://github.com/hbtlabs/chromium-white-flash-fix) | - | fixes white flash in chromium
 [dotfiles]( https://bitbucket.org/hbt/dotfiles) | Yes | dotfiles and scripts management + vcsh share with dotfiles_hbtlabs
 [dotfiles_hbtlabs]( https://bitbucket.org/hbt/dotfiles_hbtlabs) | Yes | dotfiles hbtlabs + vcsh share with dotfiles
@@ -120,3 +122,4 @@ Name | Private | purpose | Deprecated on | Reason
 [vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Works in tandem with chromium-vim cvim. | 2017 | Replaced by mouseless
 [pmrobot-db]( https://bitbucket.org/hbt/pmrobot-db) | Yes | pmrobot automated db backups.  | 2017 | replaced by gdrive backups
 [video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening | 2017 | Integrated into docker-files and deployed on functionshub
+[mouseless](https://github.com/hbt/mouseless) | - | chromium vim fork. browse without keyboard | 2018 | in favor of surfingkeys fork
