@@ -15,6 +15,8 @@ Name | private | purpose
 
 Name | private | purpose 
 ------------- |:-------------:| :----- 
+[https://github.com/hbt/intellij-plugin-tab-switcher-like-recent-files-popup](https://github.com/hbt/intellij-plugin-tab-switcher-like-recent-files-popup) | - | intellij tab switcher plugin
+[https://github.com/hbt/intellij-plugin-always-open-tab-on-the-right](https://github.com/hbt/intellij-plugin-always-open-tab-on-the-right) | - | intellij tab placement plugin 
 [https://github.com/hbt/Surfingkeys](https://github.com/hbt/Surfingkeys) | - | Mouseless replacement
 [https://github.com/hbt/z](https://github.com/hbt/z) | - | fixes to bash cli jumper
 [wion](https://github.com/hbt/wion) | - | code to manipulate wion device
