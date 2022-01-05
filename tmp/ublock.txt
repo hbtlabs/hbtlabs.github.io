@@ -10,7 +10,7 @@
 ! Low quality
 duckduckgo.com##[data-domain*="geeksforgeeks.org"]
 duckduckgo.com##[data-domain*="gutefrage.net"]
-duckduckgo.com##[data-domain*="stackshare.io"]
+duckduckgo.com##[data-domain*="quora.com"]
 duckduckgo.com##[data-domain*="tutorialspoint.com"]
 duckduckgo.com##[data-domain*="w3schools.com"]
 
