@@ -36,7 +36,6 @@ Name | private | purpose
 [chrome fuzzy finder](https://github.com/hbt/quick-tabs-chrome-extension) | - | search tabs history bookmarks using fuzzy finder like intellij
 [bookmarks-editor](https://bitbucket.org/hbt/bookmarks-editor) | Yes | edit/manipulate chrome bookmarks easily using text
 [watch]( https://github.com/hbt/watch) | - | file watcher/monitor to run scripts on file changes
-[functionshub](https://gitlab.com/hbt/functionshub) | Yes | automation orchestration
 [projects-log](https://bitbucket.org/hbt/projects-log) | Yes | tracks decisions/design/ideas/implementations across projects (private)
 [https://github.com/hbt/chrome-restore-focus](https://github.com/hbt/chrome-restore-focus) | - | restores focus to document body using keyboard. Hack for mouseless
 [projects-log]( https://github.com/hbt/projects-log) | - | tracks decisions/design/ideas/implementations across projects (old public)
@@ -123,5 +122,4 @@ Name | Private | purpose | Deprecated on | Reason
 [config]( https://bitbucket.org/hbt/config) | Yes | contains dotfiles and custom scripts / configuration. | 2016 | in favor of hbt/dotfiles and vcsh
 [vrome]( https://github.com/hbt/vrome) | - | chrome extension to browse with keyboard. Works in tandem with chromium-vim cvim. | 2017 | Replaced by mouseless
 [pmrobot-db]( https://bitbucket.org/hbt/pmrobot-db) | Yes | pmrobot automated db backups.  | 2017 | replaced by gdrive backups
-[video-mp3-converter]( https://bitbucket.org/hbt/video-mp3-converter) | Yes | dld and convert videos for mp3 listening | 2017 | Integrated into docker-files and deployed on functionshub
 [mouseless](https://github.com/hbt/mouseless) | - | chromium vim fork. browse without keyboard | 2018 | in favor of surfingkeys fork
